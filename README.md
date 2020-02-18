@@ -1,2 +1,4 @@
 # Git-Basics
-Mijn eerste git project
+
+Welkom bij mijn eerste github project. 
+
